@@ -1,15 +1,10 @@
-# Getting Started with Create React App
+# Flex Phase 3 Build 3 Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a frontend application for a event planning app. The objective of this project is to showcase work that I did for a flatiron school.
 
-## Available Scripts
+## How to use
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Fork and clone
+Run npm install
+run npm start
+follow directions for the backend [https://github.com/ren831/phase-3-sinatra-react-project]
