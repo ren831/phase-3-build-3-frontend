@@ -9,7 +9,10 @@ function KidCard({ kid, events }) {
   return (
     <Card>
       <Card.Content>
-        <Card.Header>{kid.name}</Card.Header>
+        <Card.Header>
+          <b>{kid.name}</b>
+        </Card.Header>
+        id:{kid.id}
       </Card.Content>
       <Card.Meta>{event}</Card.Meta>
     </Card>
